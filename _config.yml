@@ -1,0 +1,14 @@
+layout_spectrum: 0.2960157
+typography_spectrum: 0.8888292
+color:
+  saturation: 0.6750805
+  lightness: 0.2959183
+  brandStrength: 0.7975295
+  brandColors:
+    - '#000000'
+    - '#C68E53'
+    - '#FCFFFF'
+    - '#284028'
+    - '#58713B'
+  rhythmicContrast: 0.4997643
+name: GridLocker
